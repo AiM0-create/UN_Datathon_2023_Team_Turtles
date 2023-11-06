@@ -17,7 +17,7 @@ Out of the 6 key transitions our team focused on climate change, air pollution, 
 
 ## Methodology
 
-![1699262478801](image/REAMED/1699262478801.png)
+![1699263739293](image/README/1699263739293.png)
 
 1. The process mainly comprises of use of Google Earth Engine to do analysis over satellite data and fetch information regarding Land Surface Temperature, Forest/Green cover, and air quality. Additionally building dataset from [Google Open Building](https://sites.research.google/open-buildings/) website was taken and clipped using python.
 2. Then the output rasters and vector were taken to QGIS where they zonal statistics were performed to fetch tabular dataset for further analysis.
